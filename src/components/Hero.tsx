@@ -6,6 +6,7 @@ export function Hero() {
         autoPlay
         muted
         playsInline
+        preload="true"
         loop
         className="object-cover w-full h-full"
       />
